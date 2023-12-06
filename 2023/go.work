@@ -4,6 +4,8 @@ use ./dag1
 
 use ./dag2
 
+use ./dag3
+
 use ./dag4
 
 use ./dag5
