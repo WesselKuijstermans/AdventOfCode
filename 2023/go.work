@@ -9,3 +9,5 @@ use ./dag3
 use ./dag4
 
 use ./dag5
+
+use ./dag6
