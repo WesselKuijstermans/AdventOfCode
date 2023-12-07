@@ -1,4 +1,4 @@
-go 1.21.4
+go 1.21.5
 
 use ./dag1
 
@@ -11,3 +11,5 @@ use ./dag4
 use ./dag5
 
 use ./dag6
+
+use ./dag7
